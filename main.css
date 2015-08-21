@@ -1,0 +1,24 @@
+* { padding: 0; margin: 0; }
+
+.cf	{ clear: both; }
+
+body { background-color:  #787878 ; font-family: 'Volkhov', serif; }
+
+.container { max-width: 1280px; margin: 10px auto;  padding: 20px; background-color: white; }
+
+.container .header-block { background-color: #eee; padding: 30px; font-size: 30px; border-top: 2px solid black; }
+
+.container .block1 { float: left; width: 700px; padding: 20px; background-color: white; }
+.container .block1 h3 { font-size: 25px;}
+.container .block1 section { padding-top: 20px; font-size: 20px; }
+
+.container .block2 { padding-left: 30px; width: 500px; float: left; }
+.container .block2 .block2-1 { background-color: #FFEBD6; padding-left: 15px;  }
+.container .block2 .block2-1 h3 { font-size: 25px; padding-top: 30px; padding-left: 50px; padding-bottom: 10px;}
+.container .block2 .block2-1 p { padding-bottom: 10px; font-size: 20px;}
+
+.container .block2 .block2-2 { background-color:  #A8A8A8; padding-left: 10px; padding-top: 20px; }
+.container .block2 .block2-2 h3 { font-size: 25px; padding: 10px; }
+.container .block2 .block2-2 section { padding-bottom: 30px; font-size: 25px;}
+
+.container footer { background-color: #C2A366; font-size: 30px; padding-left: 20px; font-weight: bold; padding-top: 10px; padding-bottom: 10px; }
